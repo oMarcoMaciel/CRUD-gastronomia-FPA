@@ -20,7 +20,17 @@
 - O fluxograma é uma representação gráfica que ajuda a visualizar processos, mostrando passo a passo como algo é feito ou ocorre. Ele é útil para entender, comunicar e otimizar procedimentos em diversas áreas, desde negócios até engenharia.
 <img src="https://cdn-icons-png.flaticon.com/512/1172/1172356.png" alt="?" width=120 height=120 align="right">
 
-[Clique aqui para ver nosso fluxograma](https://github.com/oMarcoMaciel/CRUD-gastronomia-FPA/files/15382907/Fluxograma.pdf)
+[Clique aqui para baixar nosso fluxograma](https://github.com/oMarcoMaciel/CRUD-gastronomia-FPA/files/15382907/Fluxograma.pdf)
+
+<br/>
+<br/>
+<br/>
+
+## Manual de Uso
+- O manual é um guia rápido para usar o aplicativo de receitas. Ele explica como cadastrar, ver, atualizar e excluir receitas, além de encontrar por país, ver favoritas, avaliar e obter uma aleatória. Essencial para usar o app com facilidade. Fora isso ensina você a usar nosso projeto em seu computador.
+<img src="https://cdn-icons-png.flaticon.com/512/5623/5623395.png" alt="?" width=120 height=120 align="right">
+
+[Clique aqui baixar a documentação do nosso manual](https://github.com/oMarcoMaciel/CRUD-gastronomia-FPA/files/15383164/MANUAL.BITEMAP.pdf)
 
 <br/>
 <br/>
